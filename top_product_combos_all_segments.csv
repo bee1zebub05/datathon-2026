@@ -1,31 +1,3 @@
-segment,combo,combo_size,support
-Standard,UrbanVN UR-02 + UrbanVN UR-31,2,0.16666666666666666
-Premium,VietMotion RS-02 + VietMotion RS-08,2,0.12643678160919541
-Trendy,VietMotion YY-05 + VietMotion YY-09,2,0.09
-Activewear,HanoiStreet RP-79 + HanoiStreet RP-80,2,0.08813177049516455
-Standard,DragonWear UR-34 + HanoiStreet UR-08,2,0.08333333333333333
-Standard,DragonWear UR-41 + MekongFit UR-10,2,0.08333333333333333
-Standard,HanoiStreet UR-08 + UrbanVN UR-39,2,0.08333333333333333
-Standard,LotusWear UR-01 + UrbanVN UR-18,2,0.08333333333333333
-Standard,LotusWear UR-10 + LotusWear UR-20,2,0.08333333333333333
-Standard,LotusWear UR-33 + UrbanVN UR-07,2,0.08333333333333333
-Standard,LotusWear UR-36 + LotusWear UR-42,2,0.08333333333333333
-Standard,PhoenixWear UR-12 + PhoenixWear UR-19,2,0.08333333333333333
-Standard,PhoenixWear UR-12 + PhoenixWear UR-20,2,0.08333333333333333
-Standard,UrbanVN UR-15 + UrbanVN UR-19,2,0.08333333333333333
-Trendy,VietMotion YY-05 + VietMotion YY-21,2,0.06
-All-weather,DragonWear MA-03 + DragonWear MA-08,2,0.058823529411764705
-All-weather,DragonWear MA-03 + MekongFit MA-11,2,0.058823529411764705
-All-weather,DragonWear MA-08 + DragonWear MA-26,2,0.058823529411764705
-All-weather,DragonWear MA-26 + MekongFit MA-01,2,0.058823529411764705
-All-weather,DragonWear MA-26 + UrbanVN MA-02,2,0.058823529411764705
-All-weather,DragonWear MA-26 + UrbanVN MA-09,2,0.058823529411764705
-All-weather,DragonWear MA-36 + MekongFit MA-02,2,0.058823529411764705
-All-weather,HanoiStreet MA-09 + UrbanVN MA-08,2,0.058823529411764705
-All-weather,HanoiStreet MA-09 + VietMode MA-22,2,0.058823529411764705
-All-weather,MekongFit MA-01 + MekongFit MA-11,2,0.058823529411764705
-All-weather,MekongFit MA-03 + MekongFit MA-05,2,0.058823529411764705
-All-weather,MekongFit MA-10 + UrbanVN MA-09,2,0.058823529411764705
-All-weather,MekongFit MA-11 + UrbanVN MA-13,2,0.058823529411764705
-All-weather,MekongFit MA-11 + VietMotion MA-11,2,0.058823529411764705
-All-weather,UrbanVN MA-02 + UrbanVN MA-13,2,0.058823529411764705
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bfa1b474c130df3f1c68438988e0c443800b77da1876c35531571463284eb95
+size 2050
